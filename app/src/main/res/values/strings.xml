@@ -16,4 +16,7 @@
     <string name="safety">safety</string>
     <string name="reset">reset</string>
 
+    <!-- String for the image discription -->
+    <string name="imageDiscription">Football image</string>
+
 </resources>
