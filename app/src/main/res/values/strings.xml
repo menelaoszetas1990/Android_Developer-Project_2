@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Score Keeper App - American Football</string>
+
+    <!-- Strings for the title of Team A and Team B -->
+    <string name="teamA">Team A</string>
+    <string name="teamB">Team B</string>
+
+    <!-- Starting points for the game -->
+    <string name="startingPoints">0</string>
+
+    <!-- Strings for the buttons texts -->
+    <string name="touchdown">touchdown</string>
+    <string name="extraPoint">extra point</string>
+    <string name="twoPointsConversion">2 points conversion</string>
+    <string name="fieldGoal">field goal</string>
+    <string name="safety">safety</string>
+    <string name="reset">reset</string>
+
 </resources>
